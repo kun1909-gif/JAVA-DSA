@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AddNO",
+            "request": "launch",
+            "mainClass": "AddNO",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "UserInput2",
+            "request": "launch",
+            "mainClass": "UserInput2",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "UserInput",
+            "request": "launch",
+            "mainClass": "UserInput",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Challenge.Pattern",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "Save",
+            "request": "launch",
+            "mainClass": "Challenge.Save",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "Morning",
+            "request": "launch",
+            "mainClass": "Challenge.Morning",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
