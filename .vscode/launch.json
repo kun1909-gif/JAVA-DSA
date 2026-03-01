@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "Challenge.Swap",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "Assignment",
+            "request": "launch",
+            "mainClass": "Assignment",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
             "name": "AddNO",
             "request": "launch",
             "mainClass": "AddNO",
