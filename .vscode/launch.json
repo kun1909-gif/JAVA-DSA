@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Calperimeter",
+            "request": "launch",
+            "mainClass": "Challenge.Calperimeter",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "ProductTwofloatno",
+            "request": "launch",
+            "mainClass": "Challenge.ProductTwofloatno",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "Arithmetic",
+            "request": "launch",
+            "mainClass": "Challenge.Arithmetic",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
             "name": "Swap",
             "request": "launch",
             "mainClass": "Challenge.Swap",
