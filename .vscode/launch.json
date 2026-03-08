@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "apssorfail",
+            "request": "launch",
+            "mainClass": "apssorfail",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "SumofDigits",
+            "request": "launch",
+            "mainClass": "SumofDigits",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "Sumalloddno",
+            "request": "launch",
+            "mainClass": "Sumalloddno",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "multiplication",
+            "request": "launch",
+            "mainClass": "multiplication",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "Rigthside",
+            "request": "launch",
+            "mainClass": "Rigthside",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "leftside",
+            "request": "launch",
+            "mainClass": "leftside",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "Biteiseor",
+            "request": "launch",
+            "mainClass": "Biteiseor",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseAnd",
+            "request": "launch",
+            "mainClass": "BitwiseAnd",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "GreatestNo",
+            "request": "launch",
+            "mainClass": "GreatestNo",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "OddorEven",
+            "request": "launch",
+            "mainClass": "OddorEven",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "NoDetermines",
+            "request": "launch",
+            "mainClass": "NoDetermines",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
+            "name": "Multiplaicationtable",
+            "request": "launch",
+            "mainClass": "Challenge.Multiplaicationtable",
+            "projectName": "JAVA DSA_ef262c4a"
+        },
+        {
+            "type": "java",
             "name": "Calperimeter",
             "request": "launch",
             "mainClass": "Challenge.Calperimeter",
